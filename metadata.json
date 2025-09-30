@@ -1,0 +1,7 @@
+{
+  "name": "QR Code Attendance Scanner",
+  "description": "A simple and elegant web application to take attendance by scanning QR codes. Attendees are added to a list with a timestamp upon a successful scan.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
